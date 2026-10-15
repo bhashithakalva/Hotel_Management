@@ -1,0 +1,3 @@
+G101,Bhashitha Kalva,8978279965,bhashitha.kalva@gmail.com
+G102,SaaSuu,1234,gnanasruthi@gmail.com
+G103,Example,1234567890,example@gmail.com
